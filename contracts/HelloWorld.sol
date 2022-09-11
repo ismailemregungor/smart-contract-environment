@@ -1,5 +1,6 @@
 // Specifies the version of Solidity, using semantic versioning.
 // Learn more: https://solidity.readthedocs.io/en/v0.5.10/layout-of-source-files.html#pragma
+// SPDX-License-Identifier: MIT
 pragma solidity >=0.8.9;
 
 // Defines a contract named `HelloWorld`.
